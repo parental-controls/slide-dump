@@ -1,0 +1,455 @@
+Parental controls are a double entendre
+Congratulations, you now have twice as many children
+
+# Introduction
+
+- Clowns to the left, jokers to the right
+- Many of the digital responsibilities of raising our kids apply to aging parents, too
+Providing and using a safe computing environment
+Guiding them toward good choices
+Teaching them to identify online influence and disinformation
+Providing age-appropriate direction and support
+Helping them build or maintain their own agency
+
+And a few things are different, too
+We can parent our kids, but we can’t [appear to] parent our parents
+“You can’t give your boss feedback”
+They often still think they’re our boss
+Neuroplasticity declines with age
+Older folks have more assets at stake
+Taking away our kids’ access has fewer repercussions than taking things away from our parents.
+Kids are often more realistic about their self-assessments
+
+Why I care about this
+I care about this topic because I’m right in the middle of it. I have Boomer parents and in-laws, a Zoomer child, and Kirsten and I are squarely in Generation X. I’m a digital native, and she’s an early immigrant. But, importantly: I’m an admin, and Kirsten is a user.
+
+Hi, Bored, I’m Dad.
+I’ve been in security since 1989. And I’m tired.
+Fifteen years as a system and network admin: routers, servers, desktops
+Fifteen years in consulting and sales: slides, meetings, Salesforce
+Over thirty years as the Family IT Guy
+Worked at Mandiant, CrowdStrike, Expel, Netscape, Bell Labs, and elsewhere.
+Displaced Californian
+INTJ, CD, years of therapy and SSRIs
+@mjg5772 on Twitter and LinkedIn
+Double NEXUS image
+2010
+2022
+I’ve been in security since 1989. Over the last thirty years, I’ve spent about half of them as a system and network administrator. It was my first consulting job in undergrad, running RS/6000 and SunOS 3 and 4 systems at Northwestern’s graduate school of business (and where I learned my first lesson about consulting: I was billed out at $35.00 an hour, but only got paid $7.50.) I went on to build networks and systems at Bell Labs, Netscape, AOL, a couple little Web 1.0 startups. I built an ISP for “research purposes” in 1995, enterprise networks during the first dotcom boom, and then down-round companies during the first dotcom crash.
+
+Around 2005, I grew tired of being an overhead cost and switched to the sales side. I was a sales engineer and salesperson or sales manager at a variety of places, including being the first technical salesperson at three security “unicorns”: Mandiant, CrowdStrike and Expel. There, I got to work with a variety of clients, mostly in the context of incident detection and response. And my soul remains intact.
+
+Along the whole way, I’ve been the IT guy. I patch things, install patches, and deploy patches. I also tend to over-build networks: since I grew up in enterprise networking, there is rarely a problem I face that another piece of networking equipment can’t make worse.
+
+I’m a displaced Californian, a Meyers-Briggs INTJ, a big-D CD “Challenger” in the DiSC methodology, and I’ve done years of psychotherapy and SSRIs along with my favorite tequilas and mezcals.
+
+Security is our family business
+Computing was Mom’s career, starting in the 1960s
+Livermore Lab: “math”
+COBOL teacher
+Bell Labs: “secure UNIX” 
+System Test and certification
+Federal and government clients
+I guess she was a civilian?
+My mom’s career in computing started in the 1970s at Livermore Lab, an FFRDC doing “research” on “physics” in the Bay Area. She says she did “math”. After that, she did system test for multi-level secure UNIX systems – ones that could hold TS, S and SBU data on the same system. She also taught COBOL at the community college while my sister and I were in grade school; she worked at Bell Labs (and that got me started on my own career) and worked with The Names You Know: Cheswick, Bellovin, Amoroso. She gave me my first access to a shell account, on ihux0, when she brought an acoustic-coupled HP paper TTY home from work, and I wasted all her thermal paper playing Adventure and doing the Bourne Shell learning material. There’s nothing like learning pipelines when you’re eight.
+Consequently, I grew up with Orange Book conversations at the dinner table over Chicken Kiev during the Cold War. And that cemented my distaste for compliance regimes before I was old enough to drink.
+My sister works in fintech. I don’t really know what she does other than “makes shit happen.” I don’t think it’s in security, but it’s adjacent.
+
+Security is not my in-laws’ business
+Career educators, primary and secondary
+Long-time computer users
+Not technologists
+Computers are just tools
+Banking
+Email
+Video chat
+Teaching
+They depend on computing access, but don’t necessarily recognize the dangers along with the benefits. 
+But that’s not how my spouse grew up. Her parents, Chris and Jack, are career educators. They taught primary and secondary school from the late 1960s until they retired in the early 2000s. They’ve used computers for a long time, both in school and at home, but they’re not technologists like my family. Computers and networks are just tools, ways to keep in touch with people and get things done: online banking, email, video conferencing and teaching.
+While they’re mostly literate computer users, they don’t necessarily identify the dangers well. They’re a lot like our regular corporate users in that regard: the machine is a tool, provided by someone else, to get a thing done. And the thing is more important than the tool.
+
+
+Security is definitely not my child’s business
+AJ
+Not a technologist
+Has a bunch of devices
+The Internet is his context
+Uses it for communications and entertainment
+Always goes for the lolz
+Not an admin, a user
+Our kid Jackson is a teenager. He’s grown up with technology and networks all around him, but he isn’t a technologist. He has an iPhone, a Switch, a Chromebook, another Chromebook*, and always-on Internet. He’s a swimmer, a student, a keeb enthusiast. He uses the network for entertainment (Reddit, Reddit, Reddit, Discord, YouTube and Reddit) and structures most of his communications life around digital media and communications. He loves attention and goes for the lolz at any opportunity. He doesn’t have great impulse control – who does, really – and has already been busted taking photos in the locker room of his buddies doing dumb-ass things, and has already suffered the consequences of breaking the rules around Safe Sport, even though none of the photos was contraband or even in bad taste. He has a Twitter account that I created for him, and a pseudonymous one he thinks I don’t know about. 
+He is regularly surprised that his father is also familiar with Internet memes. Sorry kid, we invented this shit.
+*having two Chromebooks is not a flex. One is from the school district, and the other is his family computer, locked to his desk.
+
+
+So what do we need to do for them?
+Provide a safe computing environment for them to use
+Guide them toward good choices
+Teach them to identify online influence and disinformation
+Provide age-appropriate direction and support
+Help them build their own sense of agency
+Image / AJ and Scarlett
+So, what do we need to do for our families? As the technological adults in the room, we need to do the same things that preschool does.
+
+Provide an environment that’s safe and effective for learning
+Help them make good choices
+Help them learn to tell truth from lies
+Provide direction and support that’s appropriate for their developmental stage
+Help them develop their own agency
+
+
+
+
+Safe computing environments
+
+Principles of safe computing
+Provide an appropriate computing environment.
+Get rid of the crap before they see it
+Make the right thing the easy thing
+Disable the most dangerous things
+Put speed bumps in front of risky judgments
+But don’t try to teach them yourself. And don’t test them.
+Providing a safe computing environment is the most important technical thing you can do for your family. 
+
+The major things technologists can do?
+
+Get rid of the dangerous crap before they see it. 
+
+Make the right thing the easy thing.
+
+Disable the really dangerous things outright.
+
+And put speed bumps in the way of risky judgments.
+
+Does this look familiar to you enterprise security folks? Same things. 
+
+But what’s missing? 
+
+Phishing testing, red teaming, user education. Nobody likes school and NOBODY likes school taught by their relatives. I cannot emphasize enough how important it is not to try and teach your family members. Don’t teach them to ski, don’t teach them math*, don’t teach them the “right” way to make dinner. Nobody learns well from their relatives. (* Exception that proves the rule: I taught my high school girlfriend calculus, which helped her learn it and helped me really learn it, and there were of course fringe benefits after the lessons.)
+
+Provide appropriate computing tools
+Chromebooks, Chromebooks, Chromebooks. And Chromebooks.
+They are cheap, replaceable and manageable
+Omg are they cheap
+Also they are a great value
+Most people really only need a web browser anyway
+Current MacOS users may struggle with ChromeOS
+Consider migrating them to iPadOS
+Or a phased transition that reduces the MacOS desktop apps footprint first
+Current Windows users may need a straw
+To suck it up and move to ChromeOS
+The first thing you can do is the most important. CAN YOU GET THEM ON CHROMEBOOKS? You can.
+
+If you can get your family on Chromebooks, that is the most massive attack-surface reduction you can imagine. Both the attack surface of the adversary, but also your own attack surface. Imagine never being asked to install a Windows driver again. Imagine never needing to update a system that hasn’t been patched since 2003. Imagine getting back the time over Thanksgiving that you spent doing tech support. It also turns out that ChromeOS’ window management is really close to Windows, so if your family member is already accustomed to Windows and mostly uses web-based applications, you might be able to swap in ChromeOS without them noticing too much difference. A fat email client is probably the most likely pothole.
+
+Your kids might already be using Chromebooks at school, and this is one of the other benefits: they are CHEAP. I wrote this deck on a $200 laptop that could do all the same things my $1600 laptop did: browser, email client, and Twitter. Chromebooks are cheap because WHO CARES WHY, they’re cheap. You can get cheap crappy ones and inexpensive decent ones. You can get ruggedized ones that are meant to survive being used by toddlers and you can use those same ones for senior citizens (as long as they can see the keys.) You can get high-end ones with good videoconferencing cameras that are still less than a similar device running Windows.
+
+If you want, they can also be managed like enterprise devices. You can powerwash them, track them, remotely install and uninstall software. Many can be used as tablets (2-in-1) and they’re not bad at it. (They’re not /great/, but they’re ok. I still like my Surface better for work.)
+
+However, they’re pretty different from Macs. So if you have die-hard MacOS users in your life, you might consider first (or instead) migrating them to iPads, as long as you employ good parental controls to keep the configuration from drifting. Or, you might do a phased migration where you gradually replace their desktop MacOS apps with web-based equivalents, until there aren’t any left – again, email will be the toughest – and then transition them to a Chromebook after that. Real talk here: don’t do this to people who are too old to change. It’s not a nice way to say it, but taking an 80 year old and switching their platform can be unintentainolly cruel.
+
+Eliminate the crap
+Zero-touch endpoint product
+WIndows Defender
+MacOS
+Chromebooks don’t need one
+Browser de-crapifier
+Ghostery, uBlock Origin, other similar browser plugins
+Give the Chrome team some crap for making these harder
+But also evaluate the tradeoffs of going outside the G Suite ecosystem
+Network de-crapifier
+OpenDNS (cloud, free or paid) or 8.8.8.8 or 9.9.9.9 
+PiHole (more configurable, more support burden, local only)
+Xxx is there an option here for something like Zscaler?
+All of these are less effective as browsers do more of their own DNS
+To whatever extent possible, eliminate the crap before it can land on your famiy’s machines. THis is the low-hanging fruit, the known-knows of the Rumsfeld Doctrine (may he rest in hell.)
+
+Install a zero-touch endpoint protection product. On Windows: Defender is free and fine. On Mac: [expn]. Chromebooks don’t need it. Whatever product or feature you use, enable automatic updates, no quarantine (just torch anything suspicious), no user notification, no tray icon, set it and forget it.
+
+Reduce the crapware footprint in the browser. Use Ghostery or uBlock Origin to reduce ads and tracking. You might be tempted to deploy Firefox instead of Chrome – but be aware of the telemetry costs of doing so. LIke it or not, you’re Big Brother now, so you might want the visibility more than you want your clients to have the privacy. If you can deploy these plugins using MDM and get them to work across instances of the browser, do so. Remember that your goal isn’t necessarily privacy – that horse left the barn long ago – but reducing the amount of malware the ad networks can deliver to your user, and keeping performance up.
+
+Reduce the crap at the network layer, too. The easy option is OpenDNS – it’s free, or paid if you want more configurability and stats. You could also install a PiHole DNS resolver. But both of these approaches have declining efficacy: browsers are doing more and more of their own DNS, and the pihole only works on the network where it’s installed. Still… low hanging fruit.
+
+Side note: read Craig Partridge’s paper, “End to End Arguments in System Design” for an excellent treatment of why doing DNS in the browser is a terrible idea. It was written in the 1980s and is just as applicable today as it was then.
+
+
+
+
+But not like this… not like this.
+Watch out for support burden
+Don’t put too many things in the browser that will break it
+People need Javascript today, unfortunately
+I deployed NoScript on my wife’s machine in 2010 and she eventually allowed everything
+You will be on the hook to fix everything
+Consumer VPNs are useless and harmful. Tor is usually inappropriate.
+Don’t break more than you have to. 
+You will have to fix it, even if it’s not broken.
+// Just like therapy! Awesome
+But… watch out. You are breaking the internet, and not in the Kardashian way. Don’t break the browser so much that pages don’t load right. As much as I loved running entirely without Javascript in the early aughts – don’t forget, it is a language that was written on a dare that “I bet you can’t” – it’s not realistic today with all the front-end dazzling stuff our friends in UI/UX bring us. I put NoScript on my wife’s machine in 2010, and within a year or two she had basically allow-listed everything, including sites in Iran with pirated academic PDFs. 
+
+Yeah, that DNS review was awesome.
+
+Anyway, you’ll have to fix anything that breaks on these machines, so make them as resilient as possible. Even if your changes aren’t the ones that broke things.
+
+Someone will ask you which consumer VPN is the best. THe only correct answer is “Your mom’s VPN.” They are useless and harmful. Tor is usually inappropriate for average American users with a consumer threat model. Don’t mess with the network. It was designed to survive nuclear war, but people fucking with packet contents are considerably more dangerous than warheads.
+
+
+
+Make the right thing the easy thing
+Password reuse is the most meaningful attack surface you can mitigate, especially for Boomers.
+A password manager, omg a password manager
+While people like us love the flexibility of 1Password and LastPass…
+… the right answer for a less sophisticated user might be the native PWM.
+Chrome has one; MacOS has Keychain. Both are usable. Chrome is cross-machine but only works on ChromeOS, not heavy desktops. Might be enough.
+When to use a slightly less easy thing
+When the long-term benefits outweigh the short-term costs
+Ex. when you need password escrow now, without looking like password escrow
+When you need to dual-manage or provide content oversight
+When your user has the plasticity to learn (i.e., is younger than you not older) the Right Way
+When your user is already multiplatform (i.e., iOS + not-MacOS) and can’t be conformed
+Password reuse is the most meaningful attack surface reduction you can make, especially for Boomers. If you can do nothing else, if you cannot get them on tighter platforms, if you cannot get them to give up browsing porn, get their passwords in a manager and make them use it.
+
+I’ve been a 1Password user for over ten years, and I’m very happy with it. I use the cloud-backed version with multiple vaults for family members and shared ones with my co-administrators. I know folks who are happy with LastPass and other third-party managers. It is far more important that your family use *a* password manager rather than any particular one, but it’ll make your life easier if you can get them to use a platform you can administer. The third-party managers are also better if you need to provide a unified password experience on different computing platforms, like iOS and Chromebooks, or if you need to manage OS-level passwords as well as web application ones..
+
+That said, it might be asking too much of your users, especially if they have become accustomed to using a native password manager. MacOS Keychain is the most likely culprit here, especially if your users are MacOS/iOS only. Less common is the Chrome-only user, but it does a good job of protecting and storing the keys in the cloud too. The one thing you need to ensure if you’re going to use a platform-locked manager is that you can access its data somehow. Apple has the Legacy Contact mechanism, but I”m not aware of one in G Suite other than admin privs. 
+
+And finally, it might be to your advantage to configure a third-party manager even though it’s not as easy for them to use. If you’re planning to gradually take over or co-manage important accounts (like retirement savings or health care ones,) you might need the shared-access features of the third-party managers.
+
+Platform settings
+HTTPS don’t cost a thing, just force it
+Especially if your users are mobile and use unsafe networks regularly
+This is everyone all the time
+Turn on automatic backups everywhere you can
+iCloud does this well
+I have an unlimited SpiderOak subscription - there are others
+Any backup solution needs to be invisible to the unsophisticated user
+At the least, set up automatic photo backup
+SmugMug has a pretty good collect-and-store mechanism along with mensch operations
+Time Machine is a UI nightmare but can save bacon as long as they call you
+Let us pour one out for NetApp WAFL snapshots :the_og:
+
+Make the right thing the easy thing - FIDO tokens
+Gif: Lord current mood
+FIDO tokens are the gold standard for phishing-resistant authentication
+They are also kind of opaque. Why do they work? Magic.
+The key to adoption is consistency. 
+“Instead of typing a password, I touch the key”
+May need to be true for login even if it’s not strictly necessary
+We all need to advocate for more FIDO options with consumer services to achieve ubiquity
+
+
+Disable the most dangerous things
+Take away admin. Just take it away. Do it when you’re giving them a new machine so they won’t notice. Do it when their environment is already stable and they haven’t needed it for a while. Just do it.
+YOU CANNOT ASK A USER TO MAKE GOOD ADMIN DECISIONS
+I love your mom too, but it’s not fair to ask her to be a sysadmin, even if she was.
+Force-change their reused passwords
+See comments later about how to do this with password managers
+Remove their ability to install new apps
+Get them to a quiescent environment and freeze it there
+This approach is cognitively easier, as well – less change, more confidence
+
+
+Complexity is dangerous
+Encourage (or force) them to move to a single email address, or at most, a personal one and a business one – even for retirees
+Set autoforwards on the others and enable Reply-As in Gmail if they can take it
+Kids have the opposite problem: they will want lots of new identities to throw away. You may not be able to prohibit this, as children lie to big tech and parents.
+Watch out for the finstas … if you have access to a reputation monitoring service, maybe you throw some alerts in there for your kid’s name. Google Alerts can do this for you for free.
+Or you can deploy Palantir and Maltego against your family. /shrug
+Kids often don’t see the future benefits of keeping school identity and personal identity separate. Teaching this may require multiple lessons.
+I encourage commenting on their DL accounts from your main parent account as a measure of backpressure. However, it may drive them further underground. Assess the equities to forecast the gain/loss
+
+Put speed bumps in front of risky decisions
+If you can’t (really, CAN’T) take away local admin, at least make it hard to use
+Use a different password
+Don’t enable face/finger recognition for it
+Your goal is to create enough frustration that they call you for help
+Expect these measures to fail, since your adversary has local admin
+SSL warnings have these same characteristics
+… But at the same time, mainstream sites mostly make decent SSL decisions, so there is a risk of cry-wolf with this one
+Xxx other stuff
+
+Implementing these ideas
+Chromebooks: G Suite MDM
+Pretend you’re a high school principal with a thousand randy teens
+iOS/iPadOS: Screen Time + third-party MDM
+For kids, you can apply restrictions from your Family 
+But for adults, you can’t. Instead…
+Take physical control of the device
+Enable Screen Time with restrictions and set a PIN that your elder doesn’t know
+Talk with them about this in the “safe computing” context before handing it back
+Put that PIN in your password manager… you won’t remember it
+Windows: maybe m365? xxx
+
+Guide them toward good choices
+
+Making good choices easy
+First, eliminate the easy, unnecessary choices
+Don’t allow disabling critical things (backups, password reuse protections)
+Lock down Settings wherever possible. Leave the UI ones.
+Making fewer decisions lowers cognitive load and leaves more brain for important ones
+Then, prioritize the necessary ones
+Minimize the options
+Printers - just the necessary ones
+Network adapters - lock them on, let them figure it out
+Browsers - don’t let them install additional ones that you can’t protect
+Help them practice the right thing
+Have them do the password manager transition so they get used to operating it
+Schedule a reward afterward
+One of the hardest things to do in technology is to make the good choice the easy choice. In general, we should strive to eliminate choices: they take time and mental effort, and if there is one option that’s clearly better than the others, why even present it? 
+
+First turn off the unnecessary choices. Don’t let critical things be disabled: auto-updates, backups, endpoint, password managers. Most enterprise security products have make-invisible or anti-uninstall provisions: use them. Force the reboot for patches. The desktop operating systems have window-restore now, so your user probably won’t notice.
+
+Lock down Settings wherever possible. (On Windows, use Group Policy. On MacOS, either JAMF Pro or some other MDM. On ChromeOS, use G Suite MDM.) Leave the user interface options changeable – don’t lock down the screen resolution or font size until you have a problem, that’s just being jerky. But do candidly assess whether your user would ever need to change the option and if not, disable it. You would not believe the settings changes I have seen that resulted from rage-clicking.
+
+Then, prioritize the necessary choices. Which printer should they use? Cut the printer list down to just the ones they actually need. Do they understand print to PDF? If not, delete it. Does anyone need the XPS Writer? No. Just no. Lock the network adapters on, and let the OS figure out which ones can be used at any given time. It mostly won’t hurt if you have Ethernet and Wi-Fi on at the same time. They shouldn’t use more than one browser. Pick the one you’re going to protect and don’t let them install more.
+
+Do not underestimate this. Seeing a “you need to use Chrome” dialog box one time in 2004 on his 401(k) web site has caused my father-in-law to install Chrome (or what he THOUGHT was Chrome) on every machine ever since, because “I need it.” Even in the hour immediately after I said “Don’t install any more browsers,” and he said “Okay.” Because he needed it. The browser wars are over. Chromium won. Accept it.
+
+Help your users practice the right thing. Like, instead of importing/exporting their passwords from whatever crappy system they were using before, have them change their passwords on each site. Manually, While you’re sitting there. (Yes this will be painful to watch.) The repetiton of setting and changing passwords that they no longer know will be key to their adoption and use of the password manager in the future. I tried this both ways – and the Keychain-import-to-1Password was dramatically less effective than the painful approach. You’ll need probably a half day and an appropriate beverage to implement this. Also schedule something that’s a lot more fun for afterward as a reward… like axe throwing or printer bashing. But probably don’t schedule the same thign for you and your user, because odds are good you’ll really be hating each other just then.
+
+
+
+
+
+Consequences
+A lot tougher to apply consequences to your parents vs. your kids
+You can take screen time away from a tween
+But you … can’t give your boss feedback.
+You’ll probably have to dispense some tough love
+Expectations previously set are the only move that has worked for me
+Reinforce that you’re trying to provide a safe environment
+“... not trying to limit or control you.”
+Ref. Parenting Your Difficult Child and similar works
+Do not turn to AITA for advice
+YTA
+Sorry
+Consequences of bad decisionmaking is a lot tougher for parents vs kids. You can take screen time away from a tween, but punishing your parents just doesn’t work. 
+
+The odds are good you’re going to have to dispense some tough love at some point, and the only way I’ve found that works is inconsistent: setting expectations ahead of time. With kids, you can make those expectations part of getting the tech, but with parents you’re almost always retrofitting expectations on top of previous ones. More than once my partner and I have said “I may be your child, but I am no longer A child.” That can be spoken out of frustration, so I usually try to wrap it in “I’m trying to provide you a safe environment, not trying to limit you.” That sentiment works with kids and parents if it’s regularly reinforced.
+
+You may find it useful to look at some of the parenting books aimed at parents of “difficult” children – almost certainly all of us were. THese kids are the limit-testers, the argument sustainers, the button-pushers. The dopamine hits of the Internet can turn even the most tractable of kids into lever-mashing monkeys in this area.
+
+Identify online influence and disinformation
+
+
+Xxx Put the stuff here from Poynter / News Literacy Project et al
+
+Age-appropriate support
+
+Age-appropriate support
+Older folks struggle to learn new stuff
+Brains just don’t learn as well, harder to un-learn old stuff to make room for the new ways
+Years of coping strategies start to break as we get older
+Physical limitations mean typing gets harder
+Younger folks struggle too
+Their brains are sponges but can have difficulting choosing what to retain
+ADHD is super prevalent, and many kids don’t have strategies yet
+No great advice
+Just figure out what they can do and support the rest with scaffolding
+Bookmark bar, icons, automations
+Co-browsing for really young folks, model decisions and behaviors. They’ll match.
+It’s really hard to watch your parents become less and less capable. Some struggle with learning new stuff; some develop dementia and can’t even do what they used to be able to. As they lose physical capability, they might not be able ot use the input devices that worked well for thirty years. (I dread the day I can’t type effectively anymore, as it’s been the main way for my thoughts to escape my head for as long as I can remember.) And Jack, for example, only has nine fingers left after cutting one off on the table saw. So he can’ ouch ype
+
+SImilarly, we can’t ask too much of our little ones. They may not be able to do stuff yet, and it’s up to us to provide an on-ramp to their future the same way we provide, sigh, an off-ramp to the older generation.
+
+There’s no advice here. You’ll need to figure out what your people can do and what they can’t. Then you’ll need to provide ways for them to achieve what they can’t do – for a kid, that might be co-browsing. For a senior, it might be setting up a bookmarks bar or shortcuts with the things they need but forget how to get to.
+
+Personal sense of agency
+
+Don’t make people helpless
+Without agency, your life is just happening to you and around you.
+You have to involve your users in the decisions about their environment
+Planning for succession is the responsibility of every manager. Even family managers.
+But with all this controlling and latching things down… how do you keep from making people feel helpless? If you don’t have agency, things are pretty bleak. Your life is just happening to you, you’re not participating in it – and that will reduce the amount of effort you put in.
+
+You’ll need to have some uncomfortable conversations. “Mom, I see you are having more and more trouble remembering how to do stuff. I want to make it easier for you by changing how you do it – and I know that will be hard. Are you willing to go with me on this, knowing it will be hard to change but easier afterward?” If you can have that conversation then you can get buy-in.
+
+The savvy CISO will recognize this is exactly the same conversation you have with a board, CIO or CEO. It’s just that you don’t have the power dynamics that make it easier to say “This is how it’s gonna be.”
+
+What about the cases where you can see clear and present danger? As usual, the solutions aren’t technical, they’re HR and policy. And they come down to estate planning.
+
+Estate planning is a whole other huge topic, different from state to state and family to family. But what all of the advisers I’ve worked with have commonly said is: you have to create the structures ahead of time. For those of us who are parents, those structures are societally natural: we are responsible for our kids. But things are a lot less clear-cut for our elders.
+
+My dad’s mother died with an obsolete will that left things to people who were already dead; allocated unequal amounts of wealth to her children; tried – but failed – to box out spouses; involved non-family members in property ownership; and spent years in probate. The consequences echoed through three generations. My dad and his sister don’t talk anymore, I haven’t seen my cousins since the early 1980s, and my kid doesn’t know anyone on that side of the family. On the other side of the family, my mom’s parents had living trusts for their assets, which their children gradually took responsibility for, while involving their parents in the decisions until the parents said “you’ve got this handled, I trust you to take care of it from here out.” Those trusts never went into probate, paid less taxes, created less animosity between siblings.
+
+My sister and I are not trustees of our parents’ assets. They’re in their eighties.
+
+Trusts aren’t the only mechanism that make sense, and it’s a huge topic. But you need to start talking about it probably ten years before they’re necessary in order for them to work. If you want a great attorney in Minnesota, let me know. 
+
+Why am I talking about estate planning in a semi-technical brief? Because the motions of setting up a trust are very similar to setting up a tech support trust. 
+
+
+
+Estate planning for IT
+When you’re planning an IT estate, you need the same things as for a financial one [[ xxx find a good reference for estate planning summary and put it in the appendix ]]
+
+You need to identify the assets, financial and informational. Then organize them and determine who needs access at what levels. Identify the conditions where the plan needs to change: marriage/divorce, birth/death, people changing in permanent ways.
+
+And you can’t make these decisions on the fly. I have always been comfortable with “hire a great team and we’ll figure it out as we go along.” But that doesn’t work under life and death pressure. My father-in-law had a do-not-rescucitate order on file – but he met his wife when she was in seventh grade and they’ve been together ever since. So when the ICU doc asked, she said “Do whatever you need to, to keep him alive.” You HAVE TO make these decisions a priori and then put them in the hands of people who can execute them as you’ve decided.
+
+It can be helpful to involve external experts in these conversations. For example, consolidating and simplifying e-mail addresses is similar to consolidating monetary assets.  
+
+Acknowledgments
+
+Acknowledgments
+Thanks to these folks for their ideas, advocacy, input and editing contributions!
+Bob Lord, the patron saint of FIDO authenticators
+
+Appendix / parking lot
+
+
+Managed Chromebooks
+Locking down Chrome and Chromebooks with G Suite restrictions is helpful
+But watch out for conflicting MDM: especially from schools
+They can invalidate your carefully-constructed controls
+MDM goes with the account, so if your kid logs in to @k12.us it’s their policies on your network
+You can lock a device to its entity, but that also has downsides
+You do NOT want to be a K-12 IT person. Trust me on this.
+Recommended settings
+Xxx
+Activation
+If you have a family G Suite deployment – and who among us doesn’t – then you can make use of some enterprise management features at extra cost. But watch out: system restrictions follow the user account, so when your kid logs in to their school account, it might come with all kinds of crap like VPN clients and intermediated SSO. And kids might decide to use their school account to do searches (“what is a furry,” “examples of porn”) that they know they don’t want their parent seeing … but they don’t think through the consequences of their teachers seeing.
+
+It’s possible to lock a Chromebook to an entity that owns it, disabling other-entity logins. But that also limits your ability to swap in a personal device on a snow day.
+
+
+Managed Android phones
+G Suite manages Android devices well, of course
+Recommended settings
+Xxx
+Activation
+If you have a family G Suite deployment – and who among us doesn’t – then you can make use of some enterprise management features at extra cost.
+
+
+Managed iOS devices
+G Suite has a very basic MDM
+Can deploy Google apps and manage some security settings, mostly around loss/theft
+And it cannot be combined with JAMF – only one MDM can be applied to an iDevice at a time
+Apple Configuration Manager is a local non-cloud option
+Its documentation assumes you are a huge enterprise, focuses on scaling up
+Needed for some “supervision-only” settings
+Assumes you are an Apple-only fanboy and only runs on MacOS
+I use this but it’s a massive pain in the neck
+JAMF Pro is the gold standard but JAMF Now is free
+And cannot be used along with G Suite MDM
+
+If you have a family G Suite deployment – and who among us doesn’t – then you can make use of some enterprise management features at extra cost.
+
+
+Managed MacOS devices
+JAMF Pro is the gold standard, but JAMF Now is free for small integers
+Screen TIme also crosses over through Apple ID, but… it’s not an MDM
+You’ll probably get further through admin settings, but they are harder to apply remotely without encouraging bad behavior (“Just run TeamViewer, Dad.” Um no.)
+
+Password Managers
+Third-party ones
+1Password for Families
+LastPass
+Others?
+Platform-based ones
+Apple ID Keychain
+Chrome native PWM with sync
+
+JAMF Now settings
+
+DNC device security checklist
